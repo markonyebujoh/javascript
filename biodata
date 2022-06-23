@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p id="biodata"></p>
+
+<script>
+document.getElementById("biodata").innerHTML = "<b>Name:</b> Mark Onyebujoh<br><b>Height:</b> 5.9ft<br><b>Country:</b> Nigeria";
+</script>
+
+</body>
+</html> 
